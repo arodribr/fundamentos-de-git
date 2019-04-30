@@ -4,3 +4,4 @@ Changes on notes file
 Changes on notes file for fourth commit
 !!!!!Some text for the last commit on develop #01234!!!!!
 Some comments step 1 for rebase
+Second step for rebase, making some comments

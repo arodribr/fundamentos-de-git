@@ -3,8 +3,6 @@ Hola, hola
 Changes on notes file
 Changes on notes file for fourth commit
 !!!!!Some text for the last commit on develop #01234!!!!!
-
-
-
+Some comments step 1 for rebase
 First commit to develop before rebase
 Seconf commit to develop before rebase

@@ -1,0 +1,12 @@
+Hola Mundo
+Hola, hola
+Changes on notes file
+Changes on notes file for fourth commit
+!!!!!Some text for the last commit on develop #01234!!!!!
+Some comments step 1 for rebase
+<<<<<<< HEAD
+First commit to develop before rebase
+Seconf commit to develop before rebase
+=======
+Second step for rebase, making some comments
+>>>>>>> Second step to rebase branch
